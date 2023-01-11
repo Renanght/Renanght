@@ -4,23 +4,14 @@
 
 I am a French engineering student who creates his own version of the digital world step by step. All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code.
 
- - 🚀 Check out my Student Association: <a href="">Unidev</a> !</li>
- - 🌱 I'm currently learning everything</li>
- - 👯‍♂️ I'm looking to collaborate with other students</li>
- - 🥅 2023 Goals: Get my CCNA graduation</li>
- - ⚡ Fun fact: I love Pasta </li>
+ - 🚀 Check out my Student Association: <a href="">Unidev</a> 
+ - 🌱 I'm currently learning everything
+ - 👯‍♂️ I'm looking to collaborate with other students
+ - 🥅 2023 Goals: Get my CCNA graduation
+ - ⚡ Fun fact: I love Pasta
 
 
 ---
-
-### Connect with me:
-
-<a href=""><img align="left" alt="PORTFOLIO" width="30px" style="padding-right:10px;" src="./img/globe-light.svg" /></a>
-<a href="https://fr.linkedin.com/in/renan-gohaut-0b4b19206?original_referer=https%3A%2F%2Fwww.google.com%2F"><img align="left" alt="LINKEDIN" width="30px" style="padding-right:10px;" src="./img/linkedin-light.svg" /></a>
-<a href=""><img align="left" alt="TWITTER" width="30px" style="padding-right:10px;" src="./img/twitter-light.svg" /></a>
-<a href=""><img align="left" alt="INSTAGRAM" width="30px" style="padding-right:10px;" src="./img/instagram-light.svg" /></a>
-
-#
 
 ### 🧰 Languages & Tools
 
