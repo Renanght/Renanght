@@ -3,11 +3,10 @@
 **`Work-study Student Engineer (Networking/Telecoms/IOT)`**
 
 I am a French engineering student who creates his own version of the digital world step by step. All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code.
-
- - 🚀 Check out my Student Association: <a href="">Unidev</a> 
+ 
  - 🌱 I'm currently learning everything
  - 👯‍♂️ I'm looking to collaborate with other students
- - 🥅 2023 Goals: Get my CCNA graduation
+ - 🥅 2024 Goals: Get my CCNA graduation
  - ⚡ Fun fact: I love Pasta
 
 
