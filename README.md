@@ -6,7 +6,7 @@ I am a French engineering student who creates his own version of the digital wor
  
  - 🌱 I'm currently learning everything
  - 👯‍♂️ I'm looking to collaborate with other students
- - 🥅 2024 Goals: Get my CCNA graduation
+ - 🥅 2025 Goals: Get my Apprenticeship
  - ⚡ Fun fact: I love Pasta
 
 
